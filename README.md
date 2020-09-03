@@ -1,19 +1,17 @@
 ### Hi Guys! 🐱‍👤
+### A little about myself 👦
 
 - 👨‍💻 <b> Front-End Develover </b> - HTML, CSS, JavaScript, React, Angular, Vue.
 
 - 👨‍🔧 <b> UX/UI </b> - InVision, Sketch, Figma, Adobe XD, Adobe Photoshop, Adobe Ilustrator.
 
-- 🕵️‍♂️ <b> Advertising specialist </b> - Facebook, Instagram, Google Ads.
-
-- https://www.instagram.com/geovanne_coelho/
-- https://www.linkedin.com/in/geovannecoelho/
-
+- 🕵️‍♂️ <b> Digital </b> - Facebook Business, Google Adwords, Google Analytics, SEO.
 
 - 🤴 <b>Gratitude</b>, the queen of all virtues.
 
-
-
+- Social networks
+  - http://bit.ly/Instagram-Geovanne_Coelho
+  - http://bit.ly/Linkedin-GeovanneCoelho
 <!--
 **geovannecoelho/geovannecoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
