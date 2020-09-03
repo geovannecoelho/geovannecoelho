@@ -9,7 +9,7 @@
 
 - 🤴 <b>Gratitude</b>, the queen of all virtues.
 
-- Social networks
+- <b> Social Networks </b>
   - http://bit.ly/Instagram-Geovanne_Coelho
   - http://bit.ly/Linkedin-GeovanneCoelho
 <!--
