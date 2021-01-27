@@ -1,7 +1,7 @@
 ### Hi Guys! 🐱‍👤
 ### A little about myself 👦
 
-- 👨‍💻 <b> Front-End Develover </b> - HTML, CSS, JavaScript, React, Angular, WordPress.
+- 👨‍💻 <b> Front-End Develover </b> - HTML, CSS, JavaScript, React, WordPress.
 
 - 👨‍🔧 <b> UX/UI </b> - InVision, Sketch, Figma, Adobe XD, Adobe Photoshop, Adobe Ilustrator.
 
